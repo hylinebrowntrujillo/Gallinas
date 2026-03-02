@@ -1,0 +1,11 @@
+<svg width="460" height="108" viewBox="0 0 460 108" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Logo Hy-Line Trujillo">
+  <rect width="460" height="108" rx="16" fill="white"/>
+  <g transform="translate(18,18)">
+    <rect x="0" y="0" width="98" height="72" rx="18" fill="#00518E"/>
+    <path d="M24 30c5-10 17-16 30-15 9 1 17 5 22 12-7-2-13 0-17 4 8 2 13 8 13 14 0 12-11 22-25 22-8 0-15-3-20-7 5 1 9 1 13-2-9-2-16-9-16-18z" fill="#FFDF2B"/>
+    <circle cx="56" cy="28" r="2.5" fill="#00518E"/>
+    <path d="M44 50h16" stroke="#00518E" stroke-width="2.4" stroke-linecap="round"/>
+  </g>
+  <text x="130" y="62" font-family="Montserrat, Arial, sans-serif" font-size="58" font-style="italic" font-weight="700" fill="#00518E">Hy-Line</text>
+  <text x="134" y="83" font-family="Montserrat, Arial, sans-serif" font-size="15" letter-spacing="0.08em" font-weight="600" fill="#5F7287">TRUJILLO · LA LIBERTAD</text>
+</svg>
